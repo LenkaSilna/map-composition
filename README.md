@@ -11,7 +11,7 @@ OpenLayers map application showing polygons with WMS background layer.
 ### Clone the repository
 
 ```bash
-git clone [https://github.com/LenkaSilna/map-composition.git]
+git clone https://github.com/LenkaSilna/map-composition.git
 cd map-composition
 
 ```
